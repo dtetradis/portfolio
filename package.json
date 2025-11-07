@@ -20,5 +20,9 @@
   },
   "dependencies": {
     "preact": "^10.7.3"
+  },
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=10.0.0"
   }
 }
