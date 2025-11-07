@@ -9,6 +9,8 @@ tags:
   - React
   - NextJS
   - MongoDB
+  - Tailwind
+  - Redux
 ---
 
 _You can find the website [**here**]([https://villaemily.netlify.app/](https://zane.center/GorgeousMe/store)) the code is private._
